@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-12T08:08:46Z" name="Surefire suite" finished-at="2022-11-12T08:11:58Z" duration-ms="191759">
+    <groups>
+    </groups>
+    <test started-at="2022-11-12T08:08:46Z" name="Surefire test" finished-at="2022-11-12T08:11:58Z" duration-ms="191759">
+      <class name="makemytrip.holiday">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:makemytrip.holiday@22555ebf]" started-at="2022-11-12T13:38:46Z" name="beforetest" finished-at="2022-11-12T13:39:07Z" duration-ms="20260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test()[pri:0, instance:makemytrip.holiday@22555ebf]" started-at="2022-11-12T13:39:07Z" name="test" finished-at="2022-11-12T13:41:58Z" duration-ms="171480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- makemytrip.holiday -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
